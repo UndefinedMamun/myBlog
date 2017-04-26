@@ -1,0 +1,16 @@
+.single-blog-top .blog-text-single p {
+    font: 13px/1.5em 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #848b94;
+    margin-bottom: 0px;
+}
+.single-blog-top .blog-text-single p img{
+	width: auto;
+}
+.dropdown>.dropdown-menu>li:last-child {
+    min-height: 0px;
+    margin: 0px;
+    width: 100%;
+    overflow: hidden;
+    background-color: #304156;
+}
